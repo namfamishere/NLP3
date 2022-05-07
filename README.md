@@ -1,0 +1,1 @@
+This work involves building and training a transformer model from scratch to translate a Portuguese to English dataset.
